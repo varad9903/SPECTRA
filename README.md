@@ -93,7 +93,7 @@ VAPOR/
 
    Place both directly under `SPECTRA/`, next to `BioSpec/` and `VAPOR/` (`VAPOR/configs/inference.yaml` references them as `../stable-diffusion-v1-5` and `../sd-vae-ft-mse`).
 
-2. Download the checkpoints from [Google Drive](https://drive.google.com/drive/folders/15HIer1157AwxadKbmKBX2OWK2qWKim8M?usp=sharing) and place them under `checkpoints/` as shown above.
+2. Download the checkpoints from Google Drive (will be shared when paper made public) and place them under `checkpoints/` as shown above.
 
 `--vapor_ckpt_dir` and `--vapor_weights_dir` (used below) both point at `checkpoints/VAPOR`.
 
